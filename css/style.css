@@ -1,0 +1,15 @@
+body
+{
+    background-color: #dbc1b4;
+}
+.btn
+{
+    background-color:#d1ac9a ;
+    border: solid 1px #dbc1b4;
+    color: white;
+}
+.btn:hover
+{
+    background-color:#c4a99c ;
+    border: solid 1px #dbc1b4;
+}
